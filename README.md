@@ -10,4 +10,4 @@ Bookmark bars are handy, but can become cluttered quickly. You can use this exte
 5. Select the folder where the extension is saved
 
 Happy browsing! Updates to come:
-- The ability to remove a single URL, in addition to "Delete All"S
+- The ability to remove a single URL, in addition to "Delete All"
