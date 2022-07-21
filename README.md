@@ -7,4 +7,7 @@ Bookmark bars are handy, but can become cluttered quickly. You can use this exte
 2. Open the extensions management screen of Chrome (or Chromium browser)
 3. Enable "Developer Mode" in the upper right corner
 4. Select "Load unpacked"
-5. Selec the folder where the extension is saved
+5. Select the folder where the extension is saved
+
+Happy browsing! Updates to come:
+- The ability to remove a single URL, in addition to "Delete All"
