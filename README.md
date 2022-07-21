@@ -1,16 +1,10 @@
-# title(){return this.options.title||this.options.name}
+# Link Saving Extension
 
-## Supporting Scrimba
+## A simple way to save and store a list of URLs
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
-
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
+Bookmark bars are handy, but can become cluttered quickly. You can use this extension to input a URL you'd like to save for later, or save the current tab you're viewing. To install:
+1. Download the extension in a folder of your choosing
+2. Open the extensions management screen of Chrome (or Chromium browser)
+3. Enable "Developer Mode" in the upper right corner
+4. Select "Load unpacked"
+5. Selec the folder where the extension is saved
